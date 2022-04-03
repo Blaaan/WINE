@@ -1,0 +1,338 @@
+.sesion, .register{
+   font-family:'Quicksand', sans-serif;
+   color:#1B4F72;
+   font-size: 16px;
+   text-transform: uppercase;
+}
+
+.divi{
+	display:flex;
+}
+.imagg{
+  height:100px;
+  width:400px;
+  padding-left:200px;
+  margin-top:10px;
+}
+a{
+	text-decoration: none;
+	color:#BDC3C7;
+}
+ul{
+	list-style: none;
+}
+.nav{
+	padding: 5px;
+	display: inline-block;
+}
+.header{
+	background-color: #454545;
+	position: sticky;
+	top: 0px;
+	z-index: 2;
+}
+
+.register{
+	margin-left: 250px;
+	position: absolute;
+	top: 8px;
+}
+.sesion{
+	margin-left: 100px;
+}
+.header{
+	margin-bottom: 10px;
+}
+.header{
+	padding: 3px;
+}
+.imagenwin{
+	display:flex;
+	height: 450px;
+	width: 100%;
+}
+h2{
+	padding-left: 450px;
+}
+#tintoo img{
+	height: 435px;
+	width:  20%;
+	margin-left: 25px;
+}
+.vinot{
+	position: absolute;
+	margin-left: 80px;
+	color: #341919;
+}
+#ml{
+	bottom: -356px;
+}
+#precio{
+	bottom: -376px;
+	margin-left: 90px;
+}
+#agregar{
+	bottom: -406px;
+	margin-left: 90px;
+	text-align: center;
+	background-color: #3382A4;
+	padding: 4px;
+	border-radius: 6px 6px 6px 6px;
+	border: 3px outset #3382A4;
+}
+#whitewine {
+     height: 433px;
+	 width: 270px;
+	 position: absolute;
+	 margin-left: 365px;
+	 top: 631px;
+}
+#whitewine img{
+     height:433px;
+}
+.vinotw{
+	position: absolute;
+	margin-left: 430px;
+	color: #341919;
+}
+
+#litros{
+	top: 976px;
+}
+#precio1{
+	top:1020px;
+	margin-left: 459px;
+}
+#agregar1{
+	top: 1035px;
+    margin-left: 451px;
+}
+#pinwine img{
+	height: 435px;
+	width: 269px;
+	position: absolute;
+	margin-left: 705px;
+	top: 627px;
+}
+.vinotr{
+	position: absolute;
+	margin-left: 796px;
+	top: 975px;
+	color: #341919;
+}
+#precio2{
+	top: 1020px;
+	margin-left: 817px;
+}
+#agregar2{
+	top: 1036px;
+	margin-left:813px;
+}
+#fruitwine img{
+	height: 433px;
+	width: 270px;
+	position: absolute;
+	margin-left: 1043px;
+	top: 625px;
+}
+.vinoth{
+	color: #81bdda;
+	position: absolute;
+	margin-left: 1100px;
+	top: 969px;
+}
+#precio3{
+	margin-left: 1120px;
+	top: 1020px;
+}
+#agregar3{
+	top: 1040px;
+	margin-left: 1120px;
+}
+#whitewine:hover {
+     -webkit-transform: scale(1.1);
+	 transform:scale(1.1);
+}
+#whitewine {
+	overflow: hidden;
+}
+#fruitwine img:hover{
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+#fruitwine{
+	overflow: hidden;
+}
+#pinwine img:hover{
+	-webkit-trasnform: scale(1.1);
+	transform: scale(1.1);
+}
+#pinwine{
+	overflow: hidden;
+}
+#tintoo img:hover{
+	-webkit-tranform: scale(1.1);
+	transform: scale(1.1);
+}
+#tintoo{
+	overflow: hidden;
+}
+#Barolo img{
+	width: 270px;
+	height: 433px;
+	margin-left: 23px;
+}
+.newwine{
+	display: block;
+	position: absolute;
+	margin-left: 80px;
+	color: #341919;
+	top: 1500px;
+}
+#ltr{
+	top: 1440px;
+}
+#precioo1{
+	top: 1460px;
+	margin-left: 90px;
+}
+#add{
+	top: 1480px;
+	margin-left: 90px;
+}
+#valdez img{
+	margin-left: 360px;
+	position: absolute;
+	height: 432px;
+	width: 270px;
+	top: 1100px;
+}
+.newwine1{
+	margin-left: 418px;
+	position: absolute;
+	top: 1429px;
+	color: #516a7a; 
+}
+#preciooo2{
+    margin-left:430px;
+	top: 1450px;
+}
+#add2{
+	margin-left: 430px;
+	top: 1469px;
+}
+#rioja img{
+	margin-left: 700px;
+    height: 433px;
+	width: 270px;
+	position: absolute;
+	top: 1096px;
+}
+.newwine2{
+	margin-left: 750px;
+	position: absolute;
+	top: 1420px;
+	color: #341919;
+}
+#precioo3{
+	margin-left: 753px;
+	top: 1440px;
+}
+#add3{
+	margin-left: 753px;
+	top: 1455px;
+}
+#espumoso img{
+	margin-left: 1040px;
+	height: 433px;
+	width: 270px;
+	position: absolute;
+	top: 1099px;
+}
+.newwine3{
+    margin-left: 1090px;
+	position: absolute;
+	top: 1420px;
+	color: #3b8096;
+}
+#precioo4{
+	margin-left: 1100px;
+	top: 1439px;
+}
+#add4{
+	margin-left: 1100px;
+	top: 1455px;
+}
+footer{
+	height: 200px;
+	width: 100%;
+	background-color: #527488;
+}
+.all{
+	font-size: 18px;
+	color: #83a8bd;
+	font-family:'Quicksand', sans-serif;
+	position: absolute;
+}
+#sobre{
+	text-transform: uppercase;
+	margin-left: 60px;
+	top: 1546px;
+}
+#contactanos{
+	text-transform: uppercase;
+}
+#preguntas{
+    margin-left: 60px;
+	top: 1575px;
+}
+#eventos{
+	margin-left: 60px;
+	top: 1600px;
+}
+#contactanos{
+	margin-left: 460px;
+	top: 1546px;
+}
+#siguenos{
+	margin-left: 460px;
+	top: 1575px;
+}
+#suscribete{
+	margin-left: 460px;
+	top: 1600px;
+}
+input{
+	margin-left: 460px;
+	top: 1670px;
+	padding: 6px;
+}
+#email{
+	margin-left: 460px;
+	width: 162px;
+}
+#sus{
+	margin-left: 620px;
+	top: 1670px;
+	padding: 6px;
+}
+i{
+	margin-left: 66px;
+	top: 1660px;
+	position: absolute;
+}
+
+/*
+a span{
+	display: block;
+	position: absolute;
+}
+a span:nth-child(1){
+	top:30px;
+	left:0;
+	right: 15px;
+	width: 100%;
+	height: 2px;
+	background: linear-gradient(90deg,transparent,#2196f3);
+}*/
+
